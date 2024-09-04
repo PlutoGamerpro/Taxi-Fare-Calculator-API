@@ -1,1 +1,1 @@
-Har ikke tilføjet api key for mine egen sikkerhed i form.cs
+Har ikke offenlig gjort api key  i form.cs.
