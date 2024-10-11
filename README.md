@@ -1,6 +1,6 @@
-# TAX OPGAVEN 🚖
+# TAX Task 🚖
 
-Welcome to the **TAX OPGAVEN** project! This application helps users calculate taxi fares based on distance, vehicle type, and time of day. The application also provides a visual map of the route using Google Maps. 
+Welcome to the **TAX Task** project! This application helps users calculate taxi fares based on distance, vehicle type, and time of day. The application also provides a visual map of the route using Google Maps. 
 
 ## 🚀 Features
 - Calculate taxi fares based on kilometers traveled.
@@ -263,5 +263,5 @@ private async Task<double?> FetchAndDisplayDistance(string startLocation, string
 ```
 ### Thank you for reading!
 
-I hope you found this project helpful. If you're interested in checking out more of my work, you can find my other projects [here](https://github.com/your-github-username).
+I hope you found this project helpful. If you're interested in checking out more of my work, you can find my other projects [here](https://github.com/PlutoGamerpro?tab=stars).
 
