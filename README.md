@@ -63,8 +63,7 @@ To get a copy of the project up and running on your local machine, follow these 
 ## 📄 Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue in the repository.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ##  Namespace and Imports
 - This section imports various namespaces that provide functionality for the application, such as handling HTTP requests, working with forms, and using JSON for data manipulation.
 ```csharp
