@@ -1,6 +1,6 @@
-# TAXA Task 🚖
+# TAXA Task 🚖🕒📏
 
-Welcome to the **TAXA Task** project! This application helps users calculate taxi fares based on distance, vehicle type, and time of day. The application also provides a visual map of the route using Google Maps. 
+Welcome to the **TAXA Task** project! 🚖✨ This application helps users calculate taxi fares based on distance, vehicle type, and time of day.🕒📏 The application also provides a visual map of the route using Google Maps. 🗺️
 
 ## 🚀 Features
 - Calculate taxi fares based on kilometers traveled.
