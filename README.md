@@ -182,6 +182,7 @@ private async void btnCalculate_Click(object sender, EventArgs e)
 ```
 ## Calculate Fare
 - This method calculates the fare based on the number of kilometers and the rate per kilometer defined in the UpdatePrice method.
+- The CalculateFare method is responsible for calculating the fare based on the distance traveled in kilometers and the type of vehicle chosen. Here's a breakdown of how it works:
 ```csharp
 private double CalculateFare(double kilometers, string vehicleType, string timeOfDay)
 {
@@ -190,6 +191,7 @@ private double CalculateFare(double kilometers, string vehicleType, string timeO
 ```
 ## Update Price Method
 - This method updates the base price and the kilometer rate based on the user's selections. It uses dictionaries to find the correct pricing.
+- UpdatePrice is a method used to update the relevant prices based on the selected vehicle and time of day. It takes two parameters: vehicleType (vehicle type) and timeOfDay (time of day, eg "Day" or "Night").
 ```csharp
 
 private void UpdatePrice(string vehicleType, string timeOfDay)
